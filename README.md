@@ -5,7 +5,7 @@
 
 ## Preview
 
-https://github.com/user-attachments/assets/941c0a29-9eac-4a73-b9da-707d10bd14cc
+![Weather_App_Preview](https://github.com/user-attachments/assets/d5b72ab9-cc12-444a-a1aa-462f8ec739df)
 
 ## Screenshots
 
