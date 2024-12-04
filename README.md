@@ -1,7 +1,6 @@
 # Weather App 🌧️🌧️💙💙
 
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?color=00ADB5&style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/err0r101/Weather-App?color=00ADB5&style=for-the-badge)
 
 ## Preview
 
