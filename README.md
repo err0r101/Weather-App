@@ -5,7 +5,7 @@
 
 ## Preview
 
-<img src="https://github.com/user-attachments/assets/12d167e2-7884-4003-9fb3-c4399865066f" width="200"/>
+https://github.com/user-attachments/assets/941c0a29-9eac-4a73-b9da-707d10bd14cc
 
 ## Screenshots
 
