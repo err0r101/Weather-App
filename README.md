@@ -10,7 +10,7 @@
 ## Screenshots
 
 <p float="left">
-	![Screenshot](https://github.com/user-attachments/assets/2496226c-6fb4-401c-a464-c6172f12fd38)
+	<img src="https://github.com/user-attachments/assets/2496226c-6fb4-401c-a464-c6172f12fd38" width="200"/>
 </p>
 
 
